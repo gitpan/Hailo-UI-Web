@@ -25,6 +25,7 @@ requires:
   Catalyst::Model::Adaptor: 0
   Catalyst::Plugin::ConfigLoader: 0
   Catalyst::Plugin::Static::Simple: 0
+  Catalyst::Plugin::Unicode: 0
   Catalyst::Runtime: 5.8002
   Catalyst::View::TT: 0
   Config::General: 0
@@ -38,4 +39,4 @@ resources:
   homepage: http://search.cpan.org/dist/Hailo-UI-Web
   license: http://dev.perl.org/licenses/
   repository: git://github.com/avar/hailo-ui-web.git
-version: 0.03
+version: 0.04
